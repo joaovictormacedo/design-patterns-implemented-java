@@ -10,7 +10,7 @@ public class Main {
      * without the rest of the application having to know about such subclasses.
      */
 
-    public static void main() {
+    public static void main(String[] args) {
 
         NotificationFactory notificationFactory = new NotificationFactory();
         Notification notification;
